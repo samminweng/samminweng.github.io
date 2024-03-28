@@ -15,7 +15,7 @@ title: home
             <li> PhD in Computer Science</li> 
             <li>A skilled software engineering researcher with a growing interest in applying machine learning techniques like NLP, LLMs, and computer vision to solve diverse challenges</li> 
         </ul>
-        This is where I share my Kaggle competition solutions.
+        <a href="https://samminweng.github.io/Min-Hsien_Weng_CV.pdf">My CV</a>
     </td>
 </tr>
 </tbody>
