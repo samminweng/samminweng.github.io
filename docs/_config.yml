@@ -22,15 +22,6 @@ title: Min-Hsien Weng |
 email: samminweng@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
-My CV: https://samminweng.github.io/Min-Hsien_Weng_CV.pdf
-My GitHub repository: https://github.com/samminweng
-Kaggle Notebook, Dataset and Discussion Expert (Top 300 of 55,700 participants): https://www.kaggle.com/minhsienweng
-
-* Experience
-1 year of teaching experience in computer science
-3 years of natural language processing/machine learning experiences (PostDoc)
-7 years of compiler and programming language research (PhD + Master at Waikato University)
-9 years of RFID and PDM software development at ITRI (Taiwan)
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
