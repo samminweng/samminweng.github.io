@@ -14,6 +14,7 @@ title: home
             <li> PhD in Computer Science</li> 
             <li>A skilled software engineering researcher with a growing interest in applying machine learning techniques like NLP, LLMs, and computer vision to solve diverse challenges</li> 
             <li> <a href="https://www.kaggle.com/minhsienweng">Top 250 Kaggle Notebook Expert</a></li>
+            <li> <a href="https://www.linkedin.com/in/min-hsien-weng-3b753821/"> My LinkedIn</a></li>
             <li><a href="https://samminweng.github.io/Min-Hsien_Weng_CV.pdf">My CV</a></li>
         </ul>        
     </td>
