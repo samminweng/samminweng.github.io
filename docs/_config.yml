@@ -21,12 +21,13 @@
 title: Min-Hsien Weng
 email: samminweng@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-
+"Areas of specialization: Software Verification; Programming Analysis; Compiler; Parallel Programming
+Natural Language Processing; Large LanguageModel; Data Analytic and Visualization"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: samminweng
 github_username:  samminweng
-
+ 
 # Build settings
 theme: minima
 plugins:
