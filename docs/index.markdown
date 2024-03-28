@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: home
 
 ---
 PhD in Computer Science | A skilled software engineering researcher with a growing interest in applying machine learning, particularly NLP and LLMs, to diverse challenges.
