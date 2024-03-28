@@ -18,12 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Min-Hsien Weng
+title: Min-Hsien Weng |
 email: samminweng@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-PhD in Computer Science | A skilled software engineering researcher with a growing interest in applying machine learning, particularly NLP and LLMs, to diverse challenges. | NZ resident
-
-Main research interests span software verification, programming language, and compilers. My recent postdoc at Waikato University, New Zealand, ignited a strong interest in applying natural language processing (NLP) and large language models (LLMs) to understand complex urban environmental changes. This emerging focus complements my extensive industrial experience in hardware and software integration gained at ITRI, Taiwan, allowing me to bridge the gap between theoretical research and practical applications.
 
 My CV: https://samminweng.github.io/Min-Hsien_Weng_CV.pdf
 My GitHub repository: https://github.com/samminweng
