@@ -15,7 +15,10 @@ Main research interests span software verification, programming language, and co
 - 7 years of compiler and programming language research (PhD + Master at Waikato University)
 - 9 years of RFID and PDM software development at ITRI (Taiwan)
 
-<div>My CV: https://samminweng.github.io/Min-Hsien_Weng_CV.pdf</div>
-<div>My GitHub repository: https://github.com/samminweng</div>
-<div>Kaggle Notebook, Dataset and Discussion Expert (Top 250 of 55,700 participants): https://www.kaggle.com/minhsienweng</div>
+
+
+---
+### My CV: https://samminweng.github.io/Min-Hsien_Weng_CV.pdf
+### My GitHub repository: https://github.com/samminweng</div>
+### Kaggle Notebook, Dataset and Discussion Expert (Top 250 of 55,700 participants): https://www.kaggle.com/minhsienweng
 
