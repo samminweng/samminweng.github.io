@@ -16,6 +16,8 @@ Main research interests span software verification, programming language, and co
 - 9 years of RFID and PDM software development at ITRI (Taiwan)
 
 My CV: https://samminweng.github.io/Min-Hsien_Weng_CV.pdf
+
 My GitHub repository: https://github.com/samminweng
+
 Kaggle Notebook, Dataset and Discussion Expert (Top 250 of 55,700 participants): https://www.kaggle.com/minhsienweng
 
